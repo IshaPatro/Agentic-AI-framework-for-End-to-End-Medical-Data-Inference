@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+agentic_medical_inference_venv/
+pycache/
+.DS_Store
 build/
 develop-eggs/
 dist/
